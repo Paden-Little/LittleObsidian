@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "104e85512d3f2778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C++/C++ Basic Syntax.md",
+            "file": "This is a note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C++/C++ Basic Syntax.md",
+            "file": "This is a note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C++/C++ Basic Syntax.md"
+            "file": "This is a note.md"
           }
         }
       }
@@ -131,9 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "579c23dbd2a78fe9",
+  "active": "104e85512d3f2778",
   "lastOpenFiles": [
     "C++/C++ Basic Syntax.md",
+    "This is a note.md",
     "C++/C++ Overview.md",
     "C++"
   ]
