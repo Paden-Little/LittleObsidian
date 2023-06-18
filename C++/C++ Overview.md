@@ -1,1 +1,0 @@
-C++ is an object oriented program language known for its steep learning curve but high optimization of computer resources
