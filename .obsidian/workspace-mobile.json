@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5600eae60426523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/C++ Basic Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "579c23dbd2a78fe9",
             "type": "leaf",
             "state": {
@@ -143,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5600eae60426523",
+  "active": "579c23dbd2a78fe9",
   "lastOpenFiles": [
     "C++/C++ Basic Syntax.md",
     "C++/C++ Overview.md",
