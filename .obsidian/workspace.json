@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ Overview.md",
+                "file": "C++/C++ Basic Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Overview.md",
+                "file": "C++/C++ Basic Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Overview.md",
+                "file": "C++/C++ Basic Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Overview.md"
+                "file": "C++/C++ Basic Syntax.md"
               }
             }
           },
@@ -163,9 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cfb16c8d722e031",
+  "active": "42b697f829dbc783",
   "lastOpenFiles": [
     "C++/C++ Overview.md",
+    "C++/C++ Basic Syntax.md",
     "C++"
   ]
 }
