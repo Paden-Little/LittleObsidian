@@ -16,8 +16,21 @@
                 "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
               }
             }
+          },
+          {
+            "id": "596249bf50fefdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Turtle/Pies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
+            "file": "Python/Turtle/Pies.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
+            "file": "Python/Turtle/Pies.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
+            "file": "Python/Turtle/Pies.md"
           }
         }
       }
@@ -130,8 +143,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "596249bf50fefdcf",
   "lastOpenFiles": [
+    "Python/Turtle",
+    "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
+    "Python/Turtle/Pies.md",
     "Python/Turtle",
     "Write Great Code/Volume 2/Write Great Code. Volume 2.pdf",
     "Daily Notes/Jun 18, 2023.md",
@@ -140,7 +156,6 @@
     "Write Great Code/Volume 3",
     "Obsidian Cheat Sheet.md",
     "Write Great Code/Volume 2",
-    "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
     "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
     "Write Great Code PDF.md",
     "Excalidraw",
@@ -148,7 +163,6 @@
     "Write Great Code/Volume 1/Chapter 2",
     "Write Great Code/Volume 1",
     "Write Great Code",
-    "Daily Notes",
     "Untitled.canvas",
     "This is a note.md",
     "C++/C++ Basic Syntax.md",
