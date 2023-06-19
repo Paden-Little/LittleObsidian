@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Cheat Sheet.md",
+                "file": "Python/Python While-Else Succession.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Cheat Sheet.md",
+            "file": "Python/Python While-Else Succession.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Cheat Sheet.md",
+            "file": "Python/Python While-Else Succession.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Cheat Sheet.md"
+            "file": "Python/Python While-Else Succession.md"
           }
         }
       }
@@ -144,11 +144,13 @@
   },
   "active": "0e7638579826e835",
   "lastOpenFiles": [
+    "Write Great Code/Volume 3",
+    "Obsidian Cheat Sheet.md",
+    "Write Great Code/Volume 2/Write Great Code. Volume 2.pdf",
     "Write Great Code/Volume 2",
     "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
     "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
     "Write Great Code PDF.md",
-    "Obsidian Cheat Sheet.md",
     "Excalidraw",
     "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
     "Write Great Code/Volume 1/Chapter 2",
@@ -161,8 +163,6 @@
     "This is a note.md",
     "Music",
     "Designing A Mind",
-    "C++",
-    "Python",
     "C++/C++ Basic Syntax.md",
     "C++/C++ Overview.md"
   ]
