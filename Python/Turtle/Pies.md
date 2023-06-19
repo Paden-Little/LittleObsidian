@@ -23,3 +23,11 @@ def isosceles(t, r, angle):
 	t.fd(r) 
 	t.lt(180-angle)
 ```
+Isosceles takes a turtle object, a length of the equal legs and then half of the angle of the inner angle
+
+Does math that I don’t fully understand but it makes an isosceles triangle
+
+### Polypie
+```python
+
+```
