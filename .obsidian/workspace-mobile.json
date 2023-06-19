@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#MarkDown",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "14f1d77fc5931b86",
