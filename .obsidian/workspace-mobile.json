@@ -23,9 +23,9 @@
             "id": "3ddb31428c4b2dc7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md"
+                "file": "Write Great Code. Volume 1.pdf"
               }
             }
           }
@@ -96,7 +96,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,9 +122,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -143,13 +139,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ddb31428c4b2dc7",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
-    "Obsidian Cheat Sheet.md",
+    "Write Great Code. Volume 1.pdf",
     "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
+    "Obsidian Cheat Sheet.md",
     "Excalidraw",
     "Write Great Code PDF.md",
-    "Write Great Code. Volume 1.pdf",
     "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
     "Write Great Code/Volume 1/Chapter 2",
     "Write Great Code/Volume 1",
