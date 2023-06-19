@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jun 18, 2023.md",
+                "file": "Daily Notes/Jun 18, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Jun 18, 2023.md",
+            "file": "Daily Notes/Jun 18, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Jun 18, 2023.md",
+            "file": "Daily Notes/Jun 18, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Jun 18, 2023.md"
+            "file": "Daily Notes/Jun 18, 2023.md"
           }
         }
       }
@@ -132,10 +132,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34aba78b385ba47d",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
+    "Daily Notes",
     "Untitled.canvas",
-    "Jun 18, 2023.md",
+    "Daily Notes/Jun 18, 2023.md",
     "Python/Python While-Else Succession.md",
     "This is a note.md",
     "Music",
