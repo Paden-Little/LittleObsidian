@@ -40,3 +40,9 @@ def polypie(t, n, r):
 		isosceles(t, r, angle/2) 
 		t.lt(angle)
 ```
+This take a turtle, a number of pie 'slices' or segments, and a length of the spokes
+
+Basically just loops through the number of pie slices, creates the triangles then turns left before the next
+
+### Generation
+https://www.notion.so/Pies-7707dec56eff48c29db7f3ac6694a349?pvs=4#e1dfacd215da49cdb737d0f670cca3dd
