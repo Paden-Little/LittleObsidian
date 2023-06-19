@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "152c5d3342378b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Jun 18, 2023.md",
+            "file": "Obsidian Cheat Sheet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Jun 18, 2023.md",
+            "file": "Obsidian Cheat Sheet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Jun 18, 2023.md"
+            "file": "Obsidian Cheat Sheet.md"
           }
         }
       }
@@ -132,11 +145,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "152c5d3342378b7c",
   "lastOpenFiles": [
+    "Daily Notes/Jun 18, 2023.md",
+    "Obsidian Cheat Sheet.md",
     "Daily Notes",
     "Untitled.canvas",
-    "Daily Notes/Jun 18, 2023.md",
     "Python/Python While-Else Succession.md",
     "This is a note.md",
     "Music",
