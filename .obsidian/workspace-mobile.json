@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jun 18, 2023.md",
+                "file": "Write Great Code/Volume 1/Chapter 2/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "14f1d77fc5931b86",
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Cheat Sheet.md",
+            "file": "Write Great Code/Volume 1/Chapter 2/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Cheat Sheet.md",
+            "file": "Write Great Code/Volume 1/Chapter 2/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Cheat Sheet.md"
+            "file": "Write Great Code/Volume 1/Chapter 2/Untitled.md"
           }
         }
       }
@@ -145,10 +144,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "152c5d3342378b7c",
+  "active": "34aba78b385ba47d",
   "lastOpenFiles": [
-    "Daily Notes/Jun 18, 2023.md",
     "Obsidian Cheat Sheet.md",
+    "Write Great Code/Volume 1/Chapter 2/Untitled.md",
+    "Write Great Code/Volume 1/Chapter 2",
+    "Write Great Code/Volume 1",
+    "Write Great Code",
+    "Daily Notes/Jun 18, 2023.md",
     "Daily Notes",
     "Untitled.canvas",
     "Python/Python While-Else Succession.md",
