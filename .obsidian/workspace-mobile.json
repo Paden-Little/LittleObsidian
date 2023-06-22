@@ -11,8 +11,10 @@
             "id": "51af69a72ad9c42c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
+          }
         }
       }
     ],
