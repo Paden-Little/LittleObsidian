@@ -11,9 +11,11 @@
             "id": "51af69a72ad9c42c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
+                "file": "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
+            "file": "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
+            "file": "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf"
+            "file": "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md"
           }
         }
       }
@@ -130,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51af69a72ad9c42c",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
     "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
     "Python/Turtle/Pies.md",
