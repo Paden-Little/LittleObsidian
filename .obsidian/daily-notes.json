@@ -1,5 +1,10 @@
 {
+<<<<<<< main
   "format": "ddd, MMM \\t\\h\\e Do, Y",
   "folder": "Daily Notes",
   "autorun": true
+=======
+  "format": "ddd, MMM \\t\\h\\e Do, YYYY",
+  "folder": "Daily Notes"
+>>>>>>> origin/main
 }
