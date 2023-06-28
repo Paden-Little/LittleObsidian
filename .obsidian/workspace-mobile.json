@@ -11,11 +11,9 @@
             "id": "ca4c5f8064e16eb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily Notes/Jun 28, 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Jun 28, 2023.md",
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Jun 28, 2023.md",
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Jun 28, 2023.md"
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf"
           }
         }
       }
@@ -134,8 +132,11 @@
   },
   "active": "ca4c5f8064e16eb0",
   "lastOpenFiles": [
-    "Daily Notes/Jun 27, 2023.md",
     "Daily Notes/Jun 28, 2023.md",
+    "JavaScript/JavaScript The Good Parts",
+    "JavaScript",
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
+    "Daily Notes/Jun 27, 2023.md",
     "Daily Notes/IMG_0026.jpg.md",
     "Daily Notes/IMG_0026.jpg",
     "Daily Notes/IMG_0027.jpg",
@@ -154,11 +155,8 @@
     "Python/Turtle",
     "Python/Turtle",
     "Write Great Code/Volume 2/Write Great Code. Volume 2.pdf",
-    "Write Great Code/Volume 3/Write Great Code. Volume 3.pdf",
     "Python/Python While-Else Succession.md",
-    "Write Great Code/Volume 3",
     "Obsidian Cheat Sheet.md",
-    "Write Great Code/Volume 2",
     "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
     "Write Great Code PDF.md",
     "Untitled.canvas",
