@@ -1,5 +1,4 @@
 {
-  "format": "MMM DD, YYYY",
-  "folder": "Daily Notes",
-  "autorun": true
+  "format": "ddd, MMM \\t\\h\\e Do, YYYY",
+  "folder": "Daily Notes"
 }
