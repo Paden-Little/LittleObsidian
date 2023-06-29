@@ -32,3 +32,22 @@ Whenever programming large projects its important to make ‘Unit Tests’. Unit
 	- If there are multiple `@BeforeAll` it will first execute all of the `@BeforeAll`s top to bottom, then go back to the top and do any non `@BeforeAll`s
 - `@BeforeEach()`, `@AfterEach()`, execute this method before/after each normal test method.
 
+## Databases II
+LOOK INTO PROTOBUFF
+### What makes a database a database?
+- Implementation of Structure
+- Strucutre of data (the data is what we know it is)
+- General structure of data that we can understand better
+- Restrictions on data to force quality data
+- Data accessibility 
+- Efficiency 
+	- Efficiency of operation / execution
+	- Spatial Effeciency
+### Serialization
+Serialization is the process of encoding and decoding data to improve various aspects of your application
+
+Some serialization processes are better for operational efficiency and some great for spatial efficiency. Typically the better the spatial efficiency the worse the operational efficiency and vice versa.
+
+Java serialization sucks ass
+
+### How to create separation of application layers
