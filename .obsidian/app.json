@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "rightToLeft": false
 }
