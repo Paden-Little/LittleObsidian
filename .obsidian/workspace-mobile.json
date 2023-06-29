@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3dc784c6290aa0",
+        "id": "8057dcd9cfd9d354",
         "type": "tabs",
         "children": [
           {
-            "id": "8393a48734d0111f",
+            "id": "7b08d0a322715d7d",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Daily Notes/Jun 18, 2023.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Jun 18, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Jun 18, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily Notes/Jun 18, 2023.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -130,22 +124,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8393a48734d0111f",
+  "active": "7b08d0a322715d7d",
   "lastOpenFiles": [
+    "Daily Notes/Jun 18, 2023.md",
+    "Daily Notes/(29) Thursday, June the 29th, 2023.md",
     "Daily Notes/Jun 27, 2023.md",
     "Daily Notes/Jun 28, 2023.md",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230628195323.png",
     "Daily Notes/(27) Tuesday, June the 27th, 2023.md",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230628194538.png",
     "JavaScript/JavaScript The Good Parts/Annotation for JavaScript, The good Parts.md",
-    "Daily Notes/(29) Thursday, June the 29th, 2023.md",
     "Daily Notes/(28) Wednesday, June the 28th, 2023.md",
     "Daily Notes/(26) Monday, June the 26th, 2023.md",
     "conflict-files-obsidian-git.md",
     "Daily Notes/(18) Tuesday, June the 18, 2023.md",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Untitled.md",
-    "Daily Notes/Jun 18, 2023.md",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
