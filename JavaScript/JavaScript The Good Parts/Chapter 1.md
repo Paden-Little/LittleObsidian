@@ -10,3 +10,15 @@ It is built on a compiled connection of global variables called the Global Objec
 - dynamic objects
 - expressive object literal notation
 
+#### The Author Loves Railroad Diagrams
+For each section there will be a railroad diagram representing the grammar
+
+How to interpret the diagrams:
+- Start on the left edge and follow the tracks to the right
+- Literals in ovals
+- Rules or Descriptions in rectangles
+- Any sequence of characters that can be made by the tracks are legal
+- Any diagram with one bar at each end allow whitespace to be inserted between any pair of tokens, railroad diagrams with two bars at each end do not
+
+Example:
+![[Pasted image 20230628190053.png]]
