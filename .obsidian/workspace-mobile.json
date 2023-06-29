@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
+                "file": "Daily Notes/Jun 18, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
+            "file": "Daily Notes/Jun 18, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
+            "file": "Daily Notes/Jun 18, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md"
+            "file": "Daily Notes/Jun 18, 2023.md"
           }
         }
       }
@@ -134,6 +134,7 @@
   },
   "active": "be2c5d834b44eec2",
   "lastOpenFiles": [
+    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Volume 2 - The Art of Computer Programming.pdf",
     "Untitled.canvas",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
@@ -150,7 +151,6 @@
     "Daily Notes/images/IMG_0027.jpg",
     "Daily Notes/images/IMG_0026.jpg",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
-    "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
     "JavaScript/JavaScript The Good Parts",
     "JavaScript",
     "Daily Notes/Jun 27, 2023.md",
