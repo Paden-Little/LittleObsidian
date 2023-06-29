@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdd8adf7058f9641",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca425f238ad9d9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -132,12 +153,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8393a48734d0111f",
+  "active": "ca425f238ad9d9b8",
   "lastOpenFiles": [
-    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+    "Untitled.md",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
-    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
     "Daily Notes/Jun 18, 2023.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 1.md",
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
     "Volume 2 - The Art of Computer Programming.pdf",
     "Untitled.canvas",
     "JavaScript/JavaScript The Good Parts/Drawing 2023-06-29 00.18.42.excalidraw.md",
@@ -151,7 +174,6 @@
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230628192632.png",
     "Daily Notes/images/IMG_0027.jpg",
     "Daily Notes/images/IMG_0026.jpg",
-    "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "JavaScript/JavaScript The Good Parts",
     "JavaScript",
     "Daily Notes/Jun 27, 2023.md",
@@ -159,7 +181,6 @@
     "Daily Notes/IMG_0026.jpg",
     "Daily Notes/IMG_0027.jpg",
     "Python/Turtle/Pies.md",
-    "Untitled.md",
     "IMG_0026.jpg",
     "Excalidraw/Drawing 2023-06-27 14.25.38.excalidraw.md",
     "Daily Notes/Jun 26, 2023.md",

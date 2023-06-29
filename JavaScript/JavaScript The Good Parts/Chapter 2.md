@@ -1,8 +1,7 @@
 ## Grammar
 This note will largely show how JavaScript is structured as a language. It will pull diagrams from JavaScript: The Good Parts. 
-—-
-annotation-target: Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1
-—-
+
+
 ***
 ### Whitespace
 Whitespace is any section of your code that doesn't have any characters present. It is sometimes necessary to separate certain tokens, and sometimes not necessary. That being said white space makes code a lot more readable
