@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd8adf7058f9641",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca425f238ad9d9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Daily Notes/Jun 28, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Daily Notes/Jun 28, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Daily Notes/Jun 28, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Daily Notes/Jun 28, 2023.md"
           }
         }
       }
@@ -153,10 +132,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca425f238ad9d9b8",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
-    "Untitled.md",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+    "Untitled.md",
     "Daily Notes/Jun 18, 2023.md",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
