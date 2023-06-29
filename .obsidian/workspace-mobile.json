@@ -11,8 +11,12 @@
             "id": "7b08d0a322715d7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md"
+          }
         }
       }
     ],
@@ -124,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "7b08d0a322715d7d",
   "lastOpenFiles": [
     "Daily Notes/Jun 26, 2023.md",
     "Daily Notes/Jun 18, 2023.md",
