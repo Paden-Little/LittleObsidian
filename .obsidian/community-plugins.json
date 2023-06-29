@@ -1,7 +1,10 @@
 [
   "obsidian-git",
   "obsidian-excalidraw-plugin",
+<<<<<<< HEAD
   "dataview",
   "obsidian-icon-folder",
+=======
+>>>>>>> origin/main
   "obsidian-annotator"
 ]
