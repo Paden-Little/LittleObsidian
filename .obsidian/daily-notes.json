@@ -1,14 +1,5 @@
 {
-<<<<<<< HEAD
   "format": "(D) dddd, MMMM \\t\\h\\e Do, YYYY",
-=======
-<<<<<<< main
-  "format": "ddd, MMM \\t\\h\\e Do, Y",
-  "folder": "Daily Notes",
-  "autorun": true
-=======
-  "format": "ddd, MMM \\t\\h\\e Do, YYYY",
->>>>>>> origin/main
+  "autorun": true,
   "folder": "Daily Notes"
->>>>>>> origin/main
 }
