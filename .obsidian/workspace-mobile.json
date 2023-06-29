@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0236db063ef5075e",
+        "id": "332cc2d7c656ac1b",
         "type": "tabs",
         "children": [
           {
-            "id": "17a6b28ed1cf9573",
+            "id": "be2c5d834b44eec2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -124,8 +124,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17a6b28ed1cf9573",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
     "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
     "JavaScript/JavaScript The Good Parts/Drawing 2023-06-29 00.18.42.excalidraw.md",
@@ -158,12 +159,10 @@
     "The Art of Computer Programming/Volume 1",
     "The Art of Computer Programming",
     "Write Great Code/Volume 1/Write Great Code. Volume 1.pdf",
-    "Python/Turtle",
     "Python/Python While-Else Succession.md",
     "Obsidian Cheat Sheet.md",
     "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
     "Write Great Code PDF.md",
-    "Untitled.canvas",
     "This is a note.md",
     "C++/C++ Basic Syntax.md",
     "C++/C++ Overview.md"
