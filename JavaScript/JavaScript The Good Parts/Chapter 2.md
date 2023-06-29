@@ -1,5 +1,5 @@
 ## Grammar
-This note will largely show how JavaScript is structured as a language. It will pull diagrams from JavaScript: The Good Parts. 
+This section will largely show how JavaScript is structured as a language. It will pull diagrams from JavaScript: The Good Parts. 
 ***
 ### Whitespace
 Whitespace is any section of your code that doesn't have any characters present. It is sometimes necessary to separate certain tokens, and sometimes not necessary. That being said white space makes code a lot more readable
@@ -25,7 +25,7 @@ Negative numbers can be formed by the `-` prefix operator
 Strings are sequences of characters, the can be wrapped in single `''` or double quotes `""` and can contain zero or more characters
 The `\` (backslash) is an escape character used to "escape" typical sequence. If you wanted to use single or double quotes in a string you would have to use the escape character
 ```Javascript
-myString = "She said \"Hi!\" to the boy."
+var myString = "She said \"Hi!\" to the boy."
 ```
 JS does not have a character type, to do work on a character just use a string with one character in it.
 ![[Pasted image 20230628192632.png]]
@@ -34,3 +34,11 @@ All strings have a length property
 lengthOfString = "seven".length //this is equal to 5
 ```
 ### Statements
+By default, statements are executed top to bottom, with exceptions:
+>the use of `if` and `switch` statements to choose what to execute.
+>the use of `for`, `while`, and `do` statements we can loop and and repeat statements.
+>the use of `break`, `return`, and `throw` statements which interrupt execution.
+![[Pasted image 20230628195323.png]]
+#### Var Statements
+![[Pasted image 20230628194538.png]]
+Whenever JS is ran, each time the browser sees a `<script>` tag the JavaScript file linked to it is immediately compiled and executed. 

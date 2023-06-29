@@ -1,4 +1,4 @@
 {
-  "format": "ddd, MMM \\t\\h\\e Do, YYYY",
+  "format": "(D) dddd, MMMM \\t\\h\\e Do, YYYY",
   "folder": "Daily Notes"
 }
