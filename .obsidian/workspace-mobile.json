@@ -11,11 +11,9 @@
             "id": "7b08d0a322715d7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md",
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/(29) Thursday, June the 29th, 2023.md"
+            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf"
           }
         }
       }
@@ -132,10 +130,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "7b08d0a322715d7d",
   "lastOpenFiles": [
-    "Daily Notes/images/IMG_0030.jpg",
     "Daily Notes/(29) Thursday, June the 29th, 2023.md",
+    "Daily Notes/images/IMG_0030.jpg",
     "2023-06-29.md",
     "Daily Notes/Jun 26, 2023.md",
     "Daily Notes/Jun 18, 2023.md",

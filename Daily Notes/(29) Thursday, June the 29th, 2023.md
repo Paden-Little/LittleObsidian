@@ -57,4 +57,4 @@ The main idea behind separating application layers is to reduce bugs. Whenever y
 Each time you add a new function or class you want a distinct separation with single responsibility. Every function should have only one purpose. 
 
 Between the layers of concern in an application there should be minimal communication between each layer. However, all communications between layers should go through a separate layer called an interface
-	The interface is what manages all communications between all the layers. Since — per our diagram — Business layer should communicate between both the resource layer and the presentation layer, we should build interfaces and basically “section out” parts of the business layer to make it easier for 
+	The interface is what manages all communications between all the layers. Since — per our diagram — Business layer should communicate between both the resource layer and the presentation layer, we should build interfaces and basically “section out” parts of the business layer to build those communications
