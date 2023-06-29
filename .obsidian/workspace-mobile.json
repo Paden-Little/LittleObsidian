@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+                "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md"
+            "file": "JavaScript/JavaScript The Good Parts/Chapter 2 be.md"
           }
         }
       }
@@ -132,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "be2c5d834b44eec2",
   "lastOpenFiles": [
     "Volume 2 - The Art of Computer Programming.pdf",
     "Untitled.canvas",
@@ -150,7 +150,7 @@
     "Daily Notes/images/IMG_0027.jpg",
     "Daily Notes/images/IMG_0026.jpg",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
-    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 2 be.md",
     "JavaScript/JavaScript The Good Parts",
     "JavaScript",
     "Daily Notes/Jun 27, 2023.md",
