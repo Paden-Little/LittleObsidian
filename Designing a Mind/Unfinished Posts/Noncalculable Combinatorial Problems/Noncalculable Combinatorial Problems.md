@@ -93,3 +93,5 @@ So think about the rotation example, to find all coefficients divisible by 5, we
 
 We define $\zeta$ as a fifth of the way around the unit circle — $360 = 5(72)$ — so that it will take $\zeta^5$ to fully rotate 360 degrees in the complex plane. 
 
+
+![[screenshot.png]]
