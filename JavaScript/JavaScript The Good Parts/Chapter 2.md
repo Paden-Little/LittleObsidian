@@ -118,9 +118,21 @@ By default, statements are executed top to bottom, with exceptions:
 >![[Pasted image 20230629172311.png]]
 >
 
+#### Expression statement
+>![[Pasted image 20230630161355.png]]
+>expression statements are used to either assign values to a variable, invoke a method, or delete a property from an object. Expressions are also often literal values — a string or a number. 
+>Below are the prefix, infix, invocation, and refinement graphs
+>![[Pasted image 20230630162459.png]]
+>![[Pasted image 20230630162514.png]]
+>![[Pasted image 20230630162526.png]]
+>![[Pasted image 20230630162538.png]]
 
+#### Literals
+>Literals are literal, things that actually are and not like a variable or anything of that nature. So you put a literal into a variable to store it
+>![[Pasted image 20230630162827.png]]
+>
 
-
-
-
-sdafgagdf
+#### Functions
+>Functions are objects, and functions are called upon for repeated actions
+>![[Pasted image 20230630162911.png]]
+>

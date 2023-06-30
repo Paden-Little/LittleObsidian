@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+                "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "31a32461dd8d8d36",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e1ad88ffe5345e8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf"
               }
             }
           }
@@ -85,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c9a87c6642c517f",
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+                "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+                "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Chapter 2.md"
+                "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md"
               }
             }
           },
@@ -173,21 +156,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1272ca2058942208",
+  "active": "9cfb16c8d722e031",
   "lastOpenFiles": [
-    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+    "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629172311.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629171916.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629171049.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629170945.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629170133.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629165839.png",
-    "JavaScript/JavaScript The Good Parts/Pasted image 20230629164433.png",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629164013.png",
+    "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
+    "Designing a Mind/Untitled",
+    "Designing a Mind/Unfinished Posts",
+    "Designing a Mind",
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162911.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162827.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162538.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162526.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162514.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162459.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630161355.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629172311.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629171916.png",
+    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629171049.png",
     "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629163339.png",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629163227.png",
     "Daily Notes/(29) Thursday, June the 29th, 2023.md",
     "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
     "The Art of Computer Programming/Volume 2",
@@ -198,15 +186,12 @@
     "Daily Notes/Jun 18, 2023.md",
     "The Art of Computer Programming/Volume 2/Seminumerical Algorithms.pdf",
     "Untitled.md",
-    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008).pdf",
     "JavaScript/JavaScript The Good Parts/Annotation for JavaScript, The good Parts.md",
     "Daily Notes/(18) Tuesday, June the 18, 2023.md",
     "Daily Notes/(28) Wednesday, June the 28th, 2023.md",
     "Daily Notes/(27) Tuesday, June the 27th, 2023.md",
     "Daily Notes/(26) Monday, June the 26th, 2023.md",
     "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
-    "Daily Notes/images",
-    "JavaScript/JavaScript The Good Parts/images",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "This is a note.md",
     "Python/Turtle/Pies.md",
