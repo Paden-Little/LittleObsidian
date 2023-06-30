@@ -95,3 +95,5 @@ We define $\zeta$ as a fifth of the way around the unit circle — $360 = 5(72)$
 
 
 ![[screenshot.png]]
+
+![[screenshot 1.png]]
