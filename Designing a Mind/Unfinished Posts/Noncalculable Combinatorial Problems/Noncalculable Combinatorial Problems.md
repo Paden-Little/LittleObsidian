@@ -1,5 +1,5 @@
 [https://www.youtube.com/watch?v=bOXCLR3Wric&t=595s](https://www.youtube.com/watch?v=bOXCLR3Wric&t=595s)
-![[]]
+
 - The problem presented comes from ************************102 Combinatorial Problems************************ by Titu Andresscu and Zuming Feng
 - The problem being from Chapter 2 Problem number 10:
     - Find the number of subset of $\{1, 2, 3, ..., 2000\}$, the sum of whose elements is divisible by 5.
@@ -8,7 +8,7 @@
 
 We’ll start by parsing the subsets of the set $A = \{1, 2, 3, 4, 5\}$, and group those subsets by their sums. Notice that the 8 sets on the far left’s sums are divisble by 5
 
-![Untitled](Olympiad%20Level%20Counting%201e85223177b44f20ab7385db2c24e117/Untitled.png)
+![[screenshot.png]]
 
 So now we will consider the polynomial
 
@@ -18,7 +18,7 @@ $$
 
 This polynomial has an exponent equal to each value in our simplified set. Whenever we do expand it notice how the polynomial, generates out sets for us before it gets simplified down
 
-![image.png](Olympiad%20Level%20Counting%201e85223177b44f20ab7385db2c24e117/image.png)
+![[screenshot 1.png]]
 
 Now if we fully expand the polynomial 
 
@@ -79,7 +79,7 @@ $$
 
 As we evaluate think of each term as a vector on a one-dimensional plane. 
 
-![image.png](Olympiad%20Level%20Counting%201e85223177b44f20ab7385db2c24e117/image%201.png)
+![[screenshot 2.png]]
 
 Each term will rotate the vector 180 degrees. This just makes an oscillating function. Which just says that there are an equal number of positive and negative subsets. This is another show of how as we evaluate this function, we gain new information about our subsets. And there’s a lot more we can do with this. If we evaluate 2 functions togethers, $f(1)$ and $f(-1)$ we can find the sum of even coefficients
 
@@ -89,15 +89,14 @@ $$
 
 So think about the rotation example, to find all coefficients divisible by 5, we can extend our one-dimensional plane into the complex range. Where the horizontal axis is labeled -1 to positive 1 and the vertical axis is labeled -1i to 1i. But how do use this complex plane to solve our problem? First we need to define a complex unit to work with. Lets use $\zeta$.
 
-![image.png](Olympiad%20Level%20Counting%201e85223177b44f20ab7385db2c24e117/image%202.png)
+![[screenshot 3.png]]
 
 We define $\zeta$ as a fifth of the way around the unit circle — $360 = 5(72)$ — so that it will take $\zeta^5$ to fully rotate 360 degrees in the complex plane. 
 
 
-![[screenshot.png]]
 
-![[screenshot 1.png]]
 
-![[screenshot 2.png]]
 
-![[screenshot 3.png]]
+
+
+
