@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8057dcd9cfd9d354",
+        "id": "ad299d3a640a8b55",
         "type": "tabs",
         "children": [
           {
-            "id": "7b08d0a322715d7d",
+            "id": "764e9af826218320",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf"
+                "file": "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf"
               }
             }
           }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+            "file": "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+            "file": "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf"
+            "file": "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf"
           }
         }
       }
@@ -130,10 +130,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b08d0a322715d7d",
+  "active": "764e9af826218320",
   "lastOpenFiles": [
-    "Daily Notes/(4) Tuesday, July the 4th, 2023.md",
     "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+    "Daily Notes/(4) Tuesday, July the 4th, 2023.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 3.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 2.png",
