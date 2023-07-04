@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "showLineNumber": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "livePreview": true
 }
