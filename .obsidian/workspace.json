@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc84c3df2a9f1d9",
+        "id": "5ab62e53bbffb44b",
         "type": "tabs",
         "children": [
           {
-            "id": "1272ca2058942208",
+            "id": "9abba8dc920a01fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 509.5
   },
   "right": {
     "id": "5c9a87c6642c517f",
@@ -156,18 +156,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1272ca2058942208",
+  "active": "9abba8dc920a01fe",
   "lastOpenFiles": [
-    "Olympiad Level Counting 1e85223177b44f20ab7385db2c24e117/Untitled.png.md",
+    "Daily Notes/June 2023",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 1.md",
+    "Daily Notes/June 2023/(30) Friday, June the 30th, 2023.md",
+    "Olympiad Level Counting 1e85223177b44f20ab7385db2c24e117/Untitled.png.md",
     "Olympiad Level Counting 1e85223177b44f20ab7385db2c24e117",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 3.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 2.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 1.png",
-    "Daily Notes/(30) Friday, June the 30th, 2023.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems",
-    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Designing a Mind/Untitled",
     "Designing a Mind/Unfinished Posts",
     "Designing a Mind",
@@ -179,7 +181,7 @@
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162514.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162459.png",
     "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
-    "Daily Notes/(29) Thursday, June the 29th, 2023.md",
+    "Daily Notes/June 2023/(29) Thursday, June the 29th, 2023.md",
     "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
     "The Art of Computer Programming/Volume 2",
     "Markdown/The Markdown Guide - Matt Cone/Untitled.md",
@@ -188,12 +190,11 @@
     "Daily Notes/Jun 18, 2023.md",
     "Untitled.md",
     "JavaScript/JavaScript The Good Parts/Annotation for JavaScript, The good Parts.md",
-    "Daily Notes/(18) Tuesday, June the 18, 2023.md",
-    "Daily Notes/(28) Wednesday, June the 28th, 2023.md",
-    "Daily Notes/(27) Tuesday, June the 27th, 2023.md",
-    "Daily Notes/(26) Monday, June the 26th, 2023.md",
+    "Daily Notes/June 2023/(18) Tuesday, June the 18, 2023.md",
+    "Daily Notes/June 2023/(28) Wednesday, June the 28th, 2023.md",
+    "Daily Notes/June 2023/(27) Tuesday, June the 27th, 2023.md",
+    "Daily Notes/June 2023/(26) Monday, June the 26th, 2023.md",
     "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
-    "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "This is a note.md",
     "Python/Turtle/Pies.md",
     "Python/Python While-Else Succession.md",
