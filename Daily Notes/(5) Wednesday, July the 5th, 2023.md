@@ -19,3 +19,6 @@ var doStuff = function(){
 The `let` keyword is another way to declare a variable. It is scoped differently then the `var` keyword. While a `var` can be declared 
 
 ## Open source platforms development
+
+
+ 
