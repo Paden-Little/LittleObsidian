@@ -31,6 +31,7 @@ Arrays are the most basic form of data structures. It’s a set of indexed eleme
 	- The data in bits is stored back to back 0 index data then 1 index data and so on till the end. This is called Localized memory
 
 ##### Hash maps
+TLDR: Basically just a dictionary
 ###### What is a hash?
 - A hash is an algorithm that changes data to another form that is non-reversible. 
 - For example:
@@ -38,3 +39,9 @@ Arrays are the most basic form of data structures. It’s a set of indexed eleme
 	- A hash cannot be reversed, the only way to figure out what it is is to put in the original data that went in to be hashed, and compare the stored hash to the created hash
 ###### How do hash maps work?
 Hash maps are sets of key-value pairs where the key is the hash of the first_name so that we go in and compare out hash’s until we find what we want.
+
+### WHAT THE FUCK IS DOCKER
+Docker is a container organization platform
+Docker is better VMs for developers
+A container is a miniature VM with a bunch of small settings of dependencies code spaces etc 
+### Still no clue what docker is :D
