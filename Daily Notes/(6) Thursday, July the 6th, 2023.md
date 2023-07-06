@@ -20,4 +20,9 @@ Node is basically just the V8 engine from the browser to a desktop service.
 - Serialization gives different amounts of efficiency of operational and spatial
 - USE PROTOBUFF
 - Serialization generally makes data bigger thus lowering spatial efficiency
-- The same non-serialized file 
+- The same non-serialized file takes about 25~ bytes while java serialized data takes up about 150~ bytes for the same data
+
+#### Data Structures
+- A set of rules and structures for governing data
+##### Arrays
+Arrays are the most basic form of data structures. It’s a set of indexed 
