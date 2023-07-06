@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+                "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/(5) Wednesday, July the 5th, 2023.md"
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md"
           }
         }
       }
@@ -131,10 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e7638579826e835",
+  "active": "4a17a0ecbf1e03f7",
   "lastOpenFiles": [
-    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+    "Daily Notes/(6) Thursday, July the 6th, 2023.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Untitled.canvas",
     "The Art of Computer Programming/Volume 1/Chapter 1/Notes/1.1 Algorithms.md",
     "Daily Notes/June 2023/(27) Tuesday, June the 27th, 2023.md",
