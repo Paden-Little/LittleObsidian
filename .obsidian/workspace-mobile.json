@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8057dcd9cfd9d354",
+        "id": "cbdeb241df47bea7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b08d0a322715d7d",
+            "id": "4a17a0ecbf1e03f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf"
+                "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf"
+            "file": "Daily Notes/(6) Thursday, July the 6th, 2023.md"
           }
         }
       }
@@ -130,9 +131,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b08d0a322715d7d",
+  "active": "0e7638579826e835",
   "lastOpenFiles": [
+    "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
+    "The Art of Computer Programming/Volume 1/Chapter 1/Notes/1.1 Algorithms.md",
+    "Daily Notes/(6) Thursday, July the 6th, 2023.md",
+    "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+    "Untitled.canvas",
+    "Daily Notes/June 2023/(27) Tuesday, June the 27th, 2023.md",
+    "Daily Notes/June 2023/(29) Thursday, June the 29th, 2023.md",
+    "Daily Notes/June 2023",
+    "Daily Notes/June 2023/(18) Tuesday, June the 18, 2023.md",
+    "Daily Notes/June 2023/images",
+    "Daily Notes/June 2023/images/IMG_0026.jpg",
+    "Daily Notes/June 2023/(30) Friday, June the 30th, 2023.md",
+    "Daily Notes/June 2023/(28) Wednesday, June the 28th, 2023.md",
+    "Daily Notes/June 2023/(26) Monday, June the 26th, 2023.md",
+    "Daily Notes/June 2023/images/IMG_0030.jpg",
+    "Daily Notes/June 2023/images/IMG_0027.jpg",
+    "The Art of Computer Programming/Volume 1/Chapter 1/Notes",
+    "The Art of Computer Programming/Volume 1/Chapter 1",
     "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
+    "Daily Notes/(4) Tuesday, July the 4th, 2023.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 3.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 2.png",
@@ -144,16 +165,8 @@
     "Designing a Mind",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629171049.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162514.png",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629165839.png",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629171916.png",
-    "JavaScript/JavaScript The Good Parts/images/Pasted image 20230629170945.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems",
     "Designing a Mind/Unfinished Posts",
-    "The Art of Computer Programming/Volume 2",
-    "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
-    "The Art of Computer Programming/Volume 2/Seminumerical Algorithms.pdf",
-    "Markdown/The Markdown Guide - Matt Cone",
-    "Markdown",
     "Daily Notes/(29) Thursday, June the 29th, 2023.md",
     "2023-06-29.md",
     "Daily Notes/Jun 26, 2023.md",
@@ -165,18 +178,6 @@
     "Daily Notes/(28) Wednesday, June the 28th, 2023.md",
     "Daily Notes/(26) Monday, June the 26th, 2023.md",
     "conflict-files-obsidian-git.md",
-    "Daily Notes/(18) Tuesday, June the 18, 2023.md",
-    "JavaScript/JavaScript The Good Parts/Chapter 2.md",
-    "Untitled.md",
-    "JavaScript/JavaScript The Good Parts/Chapter 1.md",
-    "Untitled.canvas",
-    "JavaScript/JavaScript The Good Parts/Drawing 2023-06-29 00.18.42.excalidraw.md",
-    "Daily Notes/IMG_0026.jpg.md",
-    "Python/Turtle/Pies.md",
-    "Excalidraw/Drawing 2023-06-27 14.25.38.excalidraw.md",
-    "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
-    "Python/Python While-Else Succession.md",
-    "Obsidian Cheat Sheet.md",
-    "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md"
+    "Daily Notes/(18) Tuesday, June the 18, 2023.md"
   ]
 }
