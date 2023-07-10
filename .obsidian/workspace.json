@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3045b2d05ed42d51",
+  "active": "9cfb16c8d722e031",
   "lastOpenFiles": [
     "Daily Notes/(6) Thursday, July the 6th, 2023.md",
     "Daily Notes/(10) Monday, July the 10th, 2023.md",
