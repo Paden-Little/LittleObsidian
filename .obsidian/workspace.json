@@ -11,8 +11,12 @@
             "id": "9abba8dc920a01fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/(10) Monday, July the 10th, 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/(10) Monday, July the 10th, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/(10) Monday, July the 10th, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/(10) Monday, July the 10th, 2023.md"
+              }
             }
           },
           {
@@ -148,9 +157,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9abba8dc920a01fe",
+  "active": "3045b2d05ed42d51",
   "lastOpenFiles": [
+    "Daily Notes/(6) Thursday, July the 6th, 2023.md",
+    "Daily Notes/(10) Monday, July the 10th, 2023.md",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
+    "Chapter 2.pdf",
+    "Git/git-cheat-sheet.pdf",
+    "Git",
+    "Untitled.canvas",
+    "The Art of Computer Programming/Volume 1/Chapter 1/Notes/1.1 Algorithms.md",
+    "The Art of Computer Programming/Volume 1/Chapter 1/Notes",
+    "The Art of Computer Programming/Volume 1/Chapter 1",
+    "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
+    "Daily Notes/(4) Tuesday, July the 4th, 2023.md",
     "JavaScript/JavaScript The Good Parts/Annotation for JavaScript, The good Parts.md",
     "JavaScript/JavaScript The Good Parts/Chapter 1.md",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
@@ -165,18 +185,13 @@
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 1.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems",
     "Designing a Mind/Untitled",
-    "Designing a Mind/Unfinished Posts",
-    "Designing a Mind",
-    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162911.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162827.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162538.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162526.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162514.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162459.png",
-    "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
     "Daily Notes/June 2023/(29) Thursday, June the 29th, 2023.md",
-    "Markdown/The Markdown Guide - Matt Cone/The Markdown Guide - Matt Cone.pdf",
     "Markdown/The Markdown Guide - Matt Cone/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Daily Notes/Jun 18, 2023.md",
@@ -190,9 +205,6 @@
     "Python/Turtle/Pies.md",
     "Python/Python While-Else Succession.md",
     "Obsidian Cheat Sheet.md",
-    "Excalidraw/Drawing 2023-06-27 14.25.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-18 20.00.56.excalidraw.md",
-    "C++/C++ Basic Syntax.md",
-    "C++/C++ Overview.md"
+    "Excalidraw/Drawing 2023-06-27 14.25.38.excalidraw.md"
   ]
 }

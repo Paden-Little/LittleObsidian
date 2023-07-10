@@ -4,5 +4,12 @@
   "attachmentFolderPath": "./",
   "showLineNumber": false,
   "rightToLeft": false,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -10,7 +10,7 @@ Node is basically just the V8 engine from the browser to a desktop service.
 #### Aspects of Databases
 - Structure
 - CRUD
-- Effeciency
+- Efficiency
 
 #### How does serialization effect Database efficiency 
 - Serialization helps data integrity
