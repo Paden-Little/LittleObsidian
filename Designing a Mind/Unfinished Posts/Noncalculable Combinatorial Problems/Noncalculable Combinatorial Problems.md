@@ -96,7 +96,7 @@ We define $\zeta$ as a fifth of the way around the unit circle — $360 = 5(72)$
 
 
 
-
+The biggest question people ask me whenever I tell them about my study of math is the why? You are a software engineer, everything with math is like discreet and even then, everything else is entirely logical and the need to actually study complex and real math seems pointless. However, this problem brings up a very interesting cross showing how beneficial a strong  understanding of math can do for a programmer. In the 3blue1brown video he makes a comment regarding the problem. “It’s a toy problem, something that has no real world application but shows an interesting principle” and while I agree with him, the mathematics of database systems and working with incredibly large datasets has a very strong connection to a problem like this.  Finding sums of subsets might not be a typical problem is databases, however finding subsets of only people hired in the year 1973 could be a very applicable search. And while database technologies such as SQL a query like that is incredibly simple. But truly understand everything that goes into the retrieve that data is incredibly important to know.
 
 
 

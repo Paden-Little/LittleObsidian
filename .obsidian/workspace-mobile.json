@@ -11,9 +11,11 @@
             "id": "4a17a0ecbf1e03f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf"
+                "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+            "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+            "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf"
+            "file": "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md"
           }
         }
       }
@@ -132,6 +134,7 @@
   },
   "active": "4a17a0ecbf1e03f7",
   "lastOpenFiles": [
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
     "The Art of Computer Programming/Volume 1/Fundamental Algorithms.pdf",
     "Untitled 1.canvas",
     "Daily Notes/(11) Tuesday, July the 11th, 2023.md",
