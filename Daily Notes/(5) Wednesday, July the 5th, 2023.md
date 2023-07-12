@@ -1,3 +1,4 @@
+[[(29) Thursday, June the 29th, 2023]] #InteractiveWebDev #OpenSourcePlatformsDev 
 ## Interactive Web Dev
 ### Types of Functions
 #### Anonymous Functions

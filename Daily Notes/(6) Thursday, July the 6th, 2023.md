@@ -1,3 +1,4 @@
+[[(5) Wednesday, July the 5th, 2023]] #InteractiveWebDev #OpenSourcePlatformsDev #DatabasesII 
 ## Interactive Web Dev
 ### What is node?
 Node is basically just the V8 engine from the browser to a desktop service. 

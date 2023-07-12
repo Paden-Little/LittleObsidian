@@ -2,5 +2,9 @@
   "obsidian-annotator",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-latex-suite",
+  "calendar",
+  "obsidian-kanban"
 ]

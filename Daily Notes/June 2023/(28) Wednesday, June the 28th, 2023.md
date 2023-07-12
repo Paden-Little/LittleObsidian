@@ -1,3 +1,4 @@
+[[(27) Tuesday, June the 27th, 2023]] #InteractiveWebDev #OpenSourcePlatformsDev 
 ## Interactive Web Dev
 #### Arrow Notation of Function Declaration
 - The arrow `=>` means “from something do something” and the something is a function even if it doesn’t have the `function` keyword

@@ -3,9 +3,15 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "TiBrandPython",
+      "TiMarkdown",
+      "TiBrandJavascript",
+      "TiBrandGithub",
+      "TiCalendar"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,6 +20,34 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": true
+  },
+  "Daily Notes": {
+    "iconName": "TiCalendar",
+    "inheritanceIcon": "TiCalendar"
+  },
+  "Daily Notes/June 2023": {
+    "iconName": null,
+    "inheritanceIcon": "FarCalendarDays"
+  },
+  "Git": {
+    "iconName": "TiBrandGithub",
+    "inheritanceIcon": "TiBrandGithub"
+  },
+  "Designing a Mind": {
+    "iconName": "TiWriting",
+    "inheritanceIcon": "TiWriting"
+  },
+  "JavaScript": {
+    "iconName": "TiBrandJavascript",
+    "inheritanceIcon": "TiBrandJavascript"
+  },
+  "Markdown": {
+    "iconName": "TiMarkdown",
+    "inheritanceIcon": "TiMarkdown"
+  },
+  "Python": {
+    "iconName": "TiBrandPython",
+    "inheritanceIcon": "TiBrandPython"
   }
 }

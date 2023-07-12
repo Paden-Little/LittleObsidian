@@ -1,3 +1,4 @@
+[[(26) Monday, June the 26th, 2023]] #InteractiveWebDev #DatabasesII 
 ## Interactive Web Dev
 #### What is Javascript?
 - Javascript is a scripting language primarily developed for interactive websites
