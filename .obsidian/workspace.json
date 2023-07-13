@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/(12) Wednesday, July the 12th, 2023.md",
+                "file": "Daily Notes/(13) Thursday, July the 13th, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7071517102e7eab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Git/git-cheat-sheet.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,11 +96,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/(12) Wednesday, July the 12th, 2023.md",
-                "collapseAll": true,
+                "file": "Git/git-cheat-sheet.pdf",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/(12) Wednesday, July the 12th, 2023.md",
+                "file": "Git/git-cheat-sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/(12) Wednesday, July the 12th, 2023.md"
+                "file": "Git/git-cheat-sheet.pdf"
               }
             }
           },
@@ -145,11 +156,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,24 +174,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6a2456fa456a622",
+  "active": "e7071517102e7eab",
   "lastOpenFiles": [
-    "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
+    "JavaScript/JavaScript The Good Parts/Douglas Crockford - JavaScript_ The Good Parts-Yahoo Press (2008) 1.pdf",
+    "Daily Notes/(13) Thursday, July the 13th, 2023.md",
     "Daily Notes/(12) Wednesday, July the 12th, 2023.md",
     "Daily Notes/(11) Tuesday, July the 11th, 2023.md",
+    "Daily Notes/(10) Monday, July the 10th, 2023.md",
+    "Daily Notes/June 2023/(27) Tuesday, June the 27th, 2023.md",
+    "Daily Notes/June 2023/(28) Wednesday, June the 28th, 2023.md",
+    "Daily Notes/June 2023/(29) Thursday, June the 29th, 2023.md",
     "Daily Notes/(5) Wednesday, July the 5th, 2023.md",
     "Daily Notes/(6) Thursday, July the 6th, 2023.md",
+    "(12) Wednesday, July the 12th, 2023.pdf",
+    "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/Noncalculable Combinatorial Problems.md",
     "2023-W28.md",
     "Untitled",
     "Excalidraw/Drawing 2023-06-27 14.25.38.excalidraw.md",
     "Daily Notes/June 2023/(26) Monday, June the 26th, 2023.md",
     "Daily Notes/June 2023/(18) Tuesday, June the 18, 2023.md",
-    "Daily Notes/June 2023/(27) Tuesday, June the 27th, 2023.md",
-    "Daily Notes/June 2023/(28) Wednesday, June the 28th, 2023.md",
-    "Daily Notes/June 2023/(29) Thursday, June the 29th, 2023.md",
     "Daily Notes/June 2023/(30) Friday, June the 30th, 2023.md",
     "Daily Notes/(4) Tuesday, July the 4th, 2023.md",
-    "Daily Notes/(10) Monday, July the 10th, 2023.md",
     "Untitled 1.canvas",
     "JavaScript/JavaScript The Good Parts/Chapter 2.md",
     "Chapter 2.pdf",
@@ -194,12 +209,10 @@
     "JavaScript/JavaScript The Good Parts/images.zip",
     "Daily Notes/June 2023",
     "Olympiad Level Counting 1e85223177b44f20ab7385db2c24e117/Untitled.png.md",
-    "Olympiad Level Counting 1e85223177b44f20ab7385db2c24e117",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 3.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 2.png",
     "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems/screenshot 1.png",
-    "Designing a Mind/Unfinished Posts/Noncalculable Combinatorial Problems",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162911.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162827.png",
     "JavaScript/JavaScript The Good Parts/images/Pasted image 20230630162538.png",
@@ -209,8 +222,6 @@
     "Markdown/The Markdown Guide - Matt Cone/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Daily Notes/Jun 18, 2023.md",
-    "Untitled.md",
-    "Write Great Code/Volume 1/Chapter 2/1.2.6 - Binary Cheat Sheet.md",
-    "This is a note.md"
+    "Untitled.md"
   ]
 }

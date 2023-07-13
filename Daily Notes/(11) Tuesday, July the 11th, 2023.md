@@ -1,4 +1,4 @@
-[[(10) Monday, July the 10th, 2023]] #InteractiveWebDev #DatabasesII
+[[(10) Monday, July the 10th, 2023]] #InteractiveWebDev #DatabasesII #Javascript #Regex #Docker #MongoDB
 ## Interactive Web Dev
 ### What is a service?
 A service is an application that constantly runs, and is brought to life by certain commands. Applications could either be serviceable or executable. Executables are brought to life, do their work and then die. 
