@@ -59,4 +59,12 @@ docker run ^
 ### MongoDB
 MongoDB is a non-relational noSQL Database system. However there are relationships and you can use sql. But it is a document structured database system using exclusively JSON.  The query Languages that we can use is Javascript and SQL
 
-To access our mongo db instance 
+To access our mongo db instance we use
+```Shell
+docker exec -it mymongodb bash
+```
+We are in a bash instance inside of our container, but now we need to access another tool inside of that to send javascript queries
+```Shell
+mongosh
+```
+This will allow us to run nodejs functions and commands to access the data inside.
